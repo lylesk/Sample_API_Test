@@ -7,4 +7,4 @@ These tests are writen in Javascript using Mocha and Chai
 In your command line, run `npm test` 
 
 ## Notes ##
-These tests are failing because the coordinates returned from the Google API differ from the coordinates passed in
+These tests are failing because the coordinates returned from the Google API differ from the coordinates passed in and I was not able to resolve the issue in time.
