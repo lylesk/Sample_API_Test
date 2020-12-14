@@ -1,0 +1,20 @@
+{
+  "name": "forceast",
+  "version": "1.0.0",
+  "description": "API test to verify the response when querying with coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kim Lyles",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "dependencies": {
+    "chai-http": "^4.3.0"
+  }
+}
